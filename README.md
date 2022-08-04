@@ -25,9 +25,5 @@ In this study, the dataset used to train the DL-based channel estimation models 
 
 ![Defensive Distillation](https://github.com/ocatak/6g-channel-estimation-dataset/raw/main/model_plot.png)
 
-### 1. Install Libraries
-You need to install the required libraries using 
-
-`pip install <library_name>`.
 
 
