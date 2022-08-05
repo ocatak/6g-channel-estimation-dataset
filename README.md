@@ -5,6 +5,8 @@ This research paper focuses on the security concerns of using artificial intelli
 
 ## Implementation
 - [Jupyter Notebook](https://github.com/ocatak/6g-channel-estimation-dataset/blob/main/Channel_Estimation_Attacks_Github.ipynb)
+- [Dataset](https://github.com/ocatak/6g-channel-estimation-dataset/blob/main/data.mat)
+- [Defensive Distillation Implementation](https://github.com/ocatak/6g-channel-estimation-dataset/blob/main/util_defdistill.py)
 
 ## Paper
 * Catak, F. O., Kuzlu, M., Catak, E., Cali, U., Guler (2022). Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning  Models in Next-Generation Wireless Networks (*Under Review*).
