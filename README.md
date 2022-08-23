@@ -10,6 +10,25 @@ This research paper focuses on the security concerns of using artificial intelli
 
 ## Paper
 * Catak, F. O., Kuzlu, M., Catak, E., Cali, U., Guler (2022). Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning  Models in Next-Generation Wireless Networks (*Under Review*).
+
+```
+    @ARTICLE{2022arXiv220810279O,
+         author = {{Ozgur Catak}, Ferhat and {Kuzlu}, Murat and {Catak}, Evren and {Cali}, Umit and {Guler}, Ozgur},
+          title = "{Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning Models in Next-Generation Wireless Networks}",
+        journal = {arXiv e-prints},
+       keywords = {Computer Science - Cryptography and Security, Computer Science - Machine Learning},
+           year = 2022,
+          month = aug,
+            eid = {arXiv:2208.10279},
+          pages = {arXiv:2208.10279},
+  archivePrefix = {arXiv},
+         eprint = {2208.10279},
+   primaryClass = {cs.CR},
+         adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220810279O},
+        adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
+```
+
 ## People
 - Ferhat Ozgur Catak https://www.uis.no/nb/profile/ferhat-ozgur-catak-0
 - Murat Kuzlu https://www.odu.edu/directory/people/m/mkuzlu
