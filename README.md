@@ -10,6 +10,7 @@ This research paper focuses on the security concerns of using artificial intelli
 
 ## Paper
 * Catak, F. O., Kuzlu, M., Catak, E., Cali, U., Guler (2022). Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning  Models in Next-Generation Wireless Networks (*Under Review*).
+* [ArXiv Preprint](https://arxiv.org/abs/2208.10279)
 
 ```
     @ARTICLE{2022arXiv220810279O,
