@@ -14,7 +14,7 @@ This research paper focuses on the security concerns of using artificial intelli
 
 ```
     @ARTICLE{2022arXiv220810279O,
-         author = {{Ozgur Catak}, Ferhat and {Kuzlu}, Murat and {Catak}, Evren and {Cali}, Umit and {Guler}, Ozgur},
+         author = {{Catak}, Ferhat Ozgur and {Kuzlu}, Murat and {Catak}, Evren and {Cali}, Umit and {Guler}, Ozgur},
           title = "{Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning Models in Next-Generation Wireless Networks}",
         journal = {arXiv e-prints},
        keywords = {Computer Science - Cryptography and Security, Computer Science - Machine Learning},
