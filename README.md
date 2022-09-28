@@ -9,25 +9,18 @@ This research paper focuses on the security concerns of using artificial intelli
 - [Defensive Distillation Implementation](https://github.com/ocatak/6g-channel-estimation-dataset/blob/main/util_defdistill.py)
 
 ## Paper
-* Catak, F. O., Kuzlu, M., Catak, E., Cali, U., Guler (2022). Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning  Models in Next-Generation Wireless Networks (*Under Review*).
-* [ArXiv Preprint](https://arxiv.org/abs/2208.10279)
+* F. O. Catak, M. Kuzlu, E. Catak, U. Cali and O. Guler, "Defensive Distillation-Based Adversarial Attack Mitigation Method for Channel Estimation Using Deep Learning Models in Next-Generation Wireless Networks," in *IEEE Access*, vol. 10, pp. 98191-98203, 2022, doi: 10.1109/ACCESS.2022.3206385.
 
 ```
-    @ARTICLE{2022arXiv220810279O,
-         author = {{Catak}, Ferhat Ozgur and {Kuzlu}, Murat and {Catak}, Evren and {Cali}, Umit and {Guler}, Ozgur},
-          title = "{Defensive Distillation based Adversarial Attacks Mitigation Method for Channel Estimation using Deep Learning Models in Next-Generation Wireless Networks}",
-        journal = {arXiv e-prints},
-       keywords = {Computer Science - Cryptography and Security, Computer Science - Machine Learning},
-           year = 2022,
-          month = aug,
-            eid = {arXiv:2208.10279},
-          pages = {arXiv:2208.10279},
-  archivePrefix = {arXiv},
-         eprint = {2208.10279},
-   primaryClass = {cs.CR},
-         adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220810279O},
-        adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-    }
+    @ARTICLE{9888103,  author={Catak, Ferhat Ozgur and Kuzlu, Murat and Catak, Evren and Cali, Umit and Guler, Ozgur},  
+        journal={IEEE Access},   
+        title={Defensive Distillation-Based Adversarial Attack Mitigation Method for Channel Estimation Using Deep Learning Models in Next-Generation Wireless Networks},   
+        year={2022},  
+        volume={10},  
+        number={},  
+        pages={98191-98203},  
+        doi={10.1109/ACCESS.2022.3206385}
+       }
 ```
 
 ## People
